@@ -1,0 +1,86 @@
+  
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Alata&display=swap" rel="stylesheet">
+
+html{
+    scroll-behavior: smooth;
+    background-color: #16F5E1;
+    font-size: 100%;
+    max-width: 100% !important;
+}
+
+header{
+
+  font-family:'Yellowtail', sans-serif;
+
+}
+
+.navbar > li {
+  margin-left: 30px;
+}
+
+.nav-light, navbar-nav, .nav-link.active{
+  color:#EB5147 !important;
+}
+
+.nav-dark,.navbar-nav, .nav-link:hover {
+    color: #EB5147 !important;
+}
+nav {
+    box-shadow: 0 3px 5px 0 rgba(0,0,0,.1);
+}
+
+.homepage{
+    height: 100%;
+    margin-top: 175px;
+    margin-bottom: 215px;
+}
+
+h1{
+  font-family: 'Damion', serif;
+  font-size: 5em;
+  font-weight: bolder;
+  color:#782621;
+
+}
+
+h3{
+   font-family: 'Times New Roman', sans-serif;
+    font-weight: bold;
+}
+
+h2{
+    font-family: 'Alata', serif;
+    font-weight: bold;
+}
+
+.sectionhead{
+  background-color: #F622D3;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30vh;
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+ 
+}
+
+.abouttxt{
+  color: black;
+  font-family:'Damion', sans-serif;
+  font-size: 2em;
+  margin: 3em 3rem;
+  font-weight: regular;
+}
+
+.button{
+  font-size: 20px;
+  color: #8A2E74;
+  border: #8A2E74 3px solid;
+  padding: 12px 21px;
+  border-radius: 30px;
+  margin-top: 20px;
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+}
+
